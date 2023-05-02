@@ -16,7 +16,7 @@ Install the required modules by running pip install tkinter pathlib in your term
 ## How to Use
 
 Open your terminal or command prompt and navigate to the directory where you saved duplicate_file_remover.py.
-Run the script by entering python ```duplicate_file_remover.py```
+Run the script by entering python ```tkintergui.py```
 
 A dialog box will appear asking you to select a folder. Choose the folder containing the files you want to remove duplicates from.
 The script will then loop through all files in the folder, calculate their MD5 hash values, and keep track of unique files.
